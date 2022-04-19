@@ -1,3 +1,7 @@
+<html>
+
+<style>	
+	
 body {
     background: url('https://images.unsplash.com/photo-1521459467264-802e2ef3141f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3024&q=80') ;
     background-size: 50%;
@@ -152,7 +156,9 @@ section:after {
 .hour4 { transform: rotate(210deg) translate(30vmin, -17vmin); }
 
 .hour5 { transform: rotate(240deg) translate(17vmin, -30vmin); }
-
+	
+	</style>
+<body>
 <section>
     <div class="label">SEIKO</div>
     <div class="hourhand"></div>
@@ -165,3 +171,5 @@ section:after {
     <div class="hour4"></div>
     <div class="hour5"></div>
 </section>
+	</body>
+	</html>
